@@ -10,11 +10,12 @@ HardCrack.exe
 3. launch and crack any steam game. (read bellow for more info)
 
 Some games are not crackable with this, this type of program just replaces steam_api/64.dll with the gb (goldberg)
-steam_api/64.dll, so not all games are crackable :(
+steam_api/64.dll's, so not all games are crackable :(
 
 I will add more emulators with this though, and run tests :)
 
 
 !!!READ HERE!!!
+
 
 I do NOT have a discord yet, but you can add me, my user is "swedish.man".
