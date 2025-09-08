@@ -1,5 +1,6 @@
-This program has a goldberg downloader that downloads goldberg from the official website, but it downloads all the
-files, thats fine though, if it fails with that download, please report it in my discord or try following the steps bellow.
+This program uses goldberg, it has a downloader that downloads goldberg from the official website, but it downloads all
+the files, thats fine though, if it fails with that download, please report it in my discord or try following the steps
+bellow.
 
 1. https://mr_goldberg.gitlab.io/goldberg_emulator
 press "latest build" and download it, you can place it anywhere but when extracting please have it in the same folder as
@@ -12,3 +13,8 @@ Some games are not crackable with this, this type of program just replaces steam
 steam_api/64.dll, so not all games are crackable :(
 
 I will add more emulators with this though, and run tests :)
+
+
+!!!READ HERE!!!
+
+I do NOT have a discord yet, but you can add me, my user is "swedish.man".
