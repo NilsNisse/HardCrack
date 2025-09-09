@@ -19,3 +19,4 @@ I will add more emulators with this though, and run tests :)
 
 
 I do NOT have a discord yet, but you can add me, my user is "swedish.man".
+ALSO!!! The updater.exe cannot update itself, if you see updater.exe has been updated resently and you have an older version, please update.
